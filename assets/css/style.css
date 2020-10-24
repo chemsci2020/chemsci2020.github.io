@@ -21,10 +21,10 @@
 
 /* header */
 .header-img {
- background:url(/assets/img/Banner_1920_491.jpg) repeat-x top; }
-.header_resize { height:150px;}
-.header img.logo { padding-top:15px;}
-.hbg { padding-top:0px;}
+ background:url(/assets/img/Banner_1920_491.jpg)
+ width: 100%;
+ height: auto;
+ background-size: cover;
 
 }
 
